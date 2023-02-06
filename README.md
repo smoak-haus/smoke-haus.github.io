@@ -1,4 +1,4 @@
-# smoke-haus.github.io hallo
+# smoke-haus.github.io
 
 
 nostr relay running on wss://relay.nostr.smoak.haus
